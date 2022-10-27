@@ -1,3 +1,6 @@
 [submodule "1_message_dapp"]
 	path = 1_message_dapp
 	url = git@github.com:nvFede/message_dapp.git
+[submodule "2_coffee_dapp"]
+	path = 2_coffee_dapp
+	url = git@github.com:nvFede/CoffeeDapp.git
