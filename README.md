@@ -44,7 +44,7 @@
 
 
 
-## Projects
+## My Projects
 
 Any additional information goes here
 
