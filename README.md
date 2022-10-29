@@ -37,6 +37,9 @@
  - [IPFS](https://ipfs.tech/)
  - [Storj](https://www.storj.io/storj-home)
  - [Filecoin](https://filecoin.io/)
+#### Decentralized Cloud Storage
+ - [FLUX](https://www.runonflux.io/))
+ - [AuroraFS](https://www.aufs.io/solutions/decentralized-cloud-storage/)
 
 #### Security & Auditing
  - [Slither](https://github.com/crytic/slither)
