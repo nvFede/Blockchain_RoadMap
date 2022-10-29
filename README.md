@@ -33,6 +33,10 @@
  - [Ether JS](https://docs.ethers.io/v5/)
  - [Moralis](https://moralis.io/)
  - [Drizzle](https://trufflesuite.com/drizzle/)
+#### Storage
+ - [IPFS](https://ipfs.tech/)
+ - [Storj](https://www.storj.io/storj-home)
+ - [Filecoin](https://filecoin.io/)
 
 #### Security & Auditing
  - [Slither](https://github.com/crytic/slither)
