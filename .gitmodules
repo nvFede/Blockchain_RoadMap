@@ -7,3 +7,6 @@
 [submodule "3_crowdfunind_dapp"]
 	path = 3_crowdfunind_dapp
 	url = git@github.com:nvFede/crowdfun-dapp.git
+[submodule "0_Wallet_Connection"]
+	path = 0_Wallet_Connection
+	url = git@github.com:nvFede/wallet_connection.git
